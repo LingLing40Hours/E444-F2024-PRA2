@@ -1,0 +1,9 @@
+Flask
+Jinja2
+MarkupSafe
+Flask-Bootstrap
+Flask-Moment
+Flask-WTF
+email_validator
+contextvars
+Werkzeug
